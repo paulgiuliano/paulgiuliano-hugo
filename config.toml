@@ -1,31 +1,37 @@
 languageCode = "en-us"
-title = "Paul Giuliano, Ph.D."
-baseurl = "https://paulgiuliano.github.io/"
-theme = "dimension"
+title = "paulgiuliano.com"
+baseurl = "https://paulgiuliano.github.io"
+theme = "aerial"
 
 [params]
-  title = "Paul Giuliano, Ph.D."
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
-  copyright = "Untitled"
+  name = "Paul Giuliano, Ph.D."
+  about = "Space engineer &nbsp;&bull;&nbsp; Professor &nbsp;&bull;&nbsp; Media Consultant"
+  copyright = "2017 Paul Giuliano"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
 
 [[params.social]]
-  medium = "twitter"
+  medium = "Twitter"
   icon = "twitter"
   link = "#"
 
 [[params.social]]
-  medium = "facebook"
+  medium = "Facebook"
   icon = "facebook"
   link = "#"
 
 [[params.social]]
-  medium = "instagram"
-  icon = "instagram"
+  medium = "Dribbble"
+  icon = "dribbble"
   link = "#"
 
 [[params.social]]
-  medium = "github"
+  medium = "Github"
   icon = "github"
   link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
+
