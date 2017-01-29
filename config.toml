@@ -25,6 +25,11 @@ theme = "aerial"
   icon = "lastfm"
   link = "http://www.last.fm/user/abookofhateYEAH"
 
+[[params.social]]
+  medium = "GitHub"
+  icon = "github"
+  link = "https://github.com/paulgiuliano"
+
 #[[params.social]]
 #  medium = "Email"
 #  icon = "envelope-o"
