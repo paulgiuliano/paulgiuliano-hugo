@@ -5,8 +5,8 @@ theme = "aerial"
 
 [params]
   name = "Paul Giuliano, Ph.D."
-  about = "Space engineer &nbsp;&bull;&nbsp; Professor &nbsp;&bull;&nbsp; Media Consultant"
-  copyright = "2017 Paul Giuliano"
+  about = "Program manager &nbsp;&bull;&nbsp; Space engineer &nbsp;&bull;&nbsp; Professor &nbsp;&bull;&nbsp; Media Consultant"
+  copyright = "2020 Paul Giuliano"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
 
@@ -34,4 +34,3 @@ theme = "aerial"
 #  medium = "Email"
 #  icon = "envelope-o"
 #  link = "mailto:hey@paulgiuliano.com"
-
