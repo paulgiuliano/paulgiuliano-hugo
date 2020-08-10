@@ -5,8 +5,8 @@ theme = "aerial"
 
 [params]
   name = "Paul Giuliano, Ph.D."
-  about = "Satellite engineer &nbsp;&bull;&nbsp; Astronautics professor &nbsp;&bull;&nbsp; Media consultant"
-  copyright = "2017 Paul Giuliano"
+  about = "Program manager &nbsp;&bull;&nbsp; Satellite engineer &nbsp;&bull;&nbsp; Astronautics professor &nbsp;&bull;&nbsp; Media consultant"
+  copyright = "2020 Paul Giuliano"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
 
@@ -35,10 +35,10 @@ theme = "aerial"
   icon = "github"
   link = "https://github.com/paulgiuliano"
 
-[[params.social]]
-  medium = "Disqus"
-  icon = "question"
-  link = "https://disqus.com/by/paulgiuliano"
+#[[params.social]]
+#  medium = "Disqus"
+#  icon = "question"
+#  link = "https://disqus.com/by/paulgiuliano"
 
 #[[params.social]]
 #  medium = "Email"
