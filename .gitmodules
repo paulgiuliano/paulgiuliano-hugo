@@ -2,6 +2,7 @@
 	path = public
 	url = git@github.com:paulgiuliano/paulgiuliano.github.io.git
 	branch = master
+	ignore = dirty
 [submodule "themes/hugo-identity-theme"]
 	path = themes/hugo-identity-theme
 	url = https://github.com/aerohub/hugo-identity-theme.git
